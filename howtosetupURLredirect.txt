@@ -1,0 +1,7 @@
+method 1: go to
+https://ap.www.namecheap.com/Domains/DomainControlPanel/fareast-developers.com/advancedns
+URL Redirect Record   host = @     value = https://lincolnlim80.github.io/fareast-developers/index.html     masked
+TXT Record    host = _github-pages-challenge-lincolnlim80     value = 15fd86fa543bfdc7507ea1be59b5c9
+
+method 2:
+CNAME host = www    value = lincolnlim80.github.io.
